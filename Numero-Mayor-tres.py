@@ -1,6 +1,4 @@
-'''
-Determina el mayor de 3 numeros ingresados por el teclado
-'''
+"""Determina el mayor de 3 numeros ingresados por el teclado"""
 class ordenadoTresNumeros:
     def __init__(self,numero1,numero2,numero3):
         self.numero1 = numero1
@@ -52,5 +50,3 @@ if __name__=="__main__":
     print("\nNumeros ordenados__")
     numeros.ordenar_numeros()
     numeros.imprimir_numeros()
-
-
