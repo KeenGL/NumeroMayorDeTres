@@ -49,7 +49,7 @@ if __name__=="__main__":
     print("\nNumeros desordenados")
     numeros.imprimir_numeros()
 
-    print("\nNumeros ordenados")
+    print("\nNumeros ordenados__")
     numeros.ordenar_numeros()
     numeros.imprimir_numeros()
 
